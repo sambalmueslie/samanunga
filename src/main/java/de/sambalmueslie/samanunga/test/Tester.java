@@ -10,7 +10,7 @@ public class Tester {
 	 * @param suite
 	 *            {@link #suite}
 	 * @param testName
-	 *            {@link #testName}
+	 *            the test name
 	 */
 	public Tester(Class<?> suite, String testName) {
 		this.suite = suite;

@@ -12,6 +12,7 @@ local.properties
 .loadpath
 .recommenders
 *.asc
+*.res
 
 # Eclipse Core
 .project

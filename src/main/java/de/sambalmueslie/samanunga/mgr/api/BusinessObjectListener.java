@@ -6,5 +6,11 @@ package de.sambalmueslie.samanunga.mgr.api;
  * @author Sambalmueslie
  */
 public interface BusinessObjectListener {
+	/**
+	 * The {@link BusinessObject} has changed.
+	 * 
+	 * @param id
+	 *            the {@link BusinessObject} id
+	 */
 	void changed(String id);
 }

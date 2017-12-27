@@ -4,8 +4,6 @@ package de.sambalmueslie.samanunga.mgr.api;
  * A business object.
  *
  * @author Sambalmueslie
- * @param <K>
- *            the id type.
  */
 public interface BusinessObject {
 	/**
